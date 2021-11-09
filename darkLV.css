@@ -1,0 +1,169 @@
+body {
+    font-size: 14px;
+    color: #e8e8e8;
+    background-color: #2f2f2f;
+}
+
+a {
+    color: #a3c4b4;
+}
+
+
+legend {
+    color: #ffffff;
+}
+
+.grid-view table.items tr.selected td {
+    background: #435344;
+}
+
+body .btn.btn-info {
+    background: #1a541c;
+}
+
+.navbar .nav > li > a {
+    color: #ffffff;
+    text-shadow: 0 1px 0 #ffffff;
+}
+
+.navbar.navbar-fixed-top > .navbar-inner > .container {
+    background: #202020;
+}
+
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+    color: #eeeeee;
+    text-decoration: none;
+    outline: 0;
+    background-color: #0f4414;
+    background-image: -moz-linear-gradient(top, #186016, #2d8b3d);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#186016), to(#2d8b3d));
+    background-image: -webkit-linear-gradient(top, #186016, #2d8b3d);
+    background-image: -o-linear-gradient(top, #186016, #2d8b3d);
+    background-image: linear-gradient(to bottom, #186016, #2d8b3d);
+    background-repeat: repeat-x;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0088cc', endColorstr='#ff0077b3', GradientType=0);
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-submenu:hover > a,
+.dropdown-submenu:focus > a {
+    text-decoration: none;
+    color: #eeeeee;
+    outline: 0;
+    background-color: #0f4414;
+    background-image: -moz-linear-gradient(top, #186016, #2d8b3d);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#186016), to(#2d8b3d));
+    background-image: -webkit-linear-gradient(top, #186016, #2d8b3d);
+    background-image: -o-linear-gradient(top, #186016, #2d8b3d);
+    background-image: linear-gradient(to bottom, #186016, #2d8b3d);
+    background-repeat: repeat-x;
+}
+
+body .navbar .navbar-inner {
+    background: #000;
+    box-shadow: 0 2px 2px rgb(0 0 0 / 5%), inset 0 -2px 0 rgb(0 0 0 / 12%), inset 0 1px 0 rgb(255 255 255 / 30%);
+    -webkit-box-shadow: 0 2px 2px rgb(0 0 0 / 5%), inset 0 -2px 0 rgb(0 0 0 / 12%), inset 0 1px 0 rgb(255 255 255 / 30%);
+    -moz-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.05), inset 0 -2px 0 rgba(0, 0, 0, 0.12), inset 0 1px 0 rgba(255, 255, 255, 0.3);
+}
+
+.navbar .nav > li > a {
+    color: #eee;
+    text-shadow: 0 0px 0 #e6e6e6;
+}
+
+.nav-tabs > .active > a,
+.nav-tabs > .active > a:hover,
+.nav-tabs > .active > a:focus {
+    color: #dbdbdb;
+    background-color: #3c4d3e;
+    border-bottom-color: transparent;
+    cursor: default;
+}
+
+.label-info,
+.badge-info {
+    background-color: #2f624a;
+}
+
+.navbar .nav > li > a {
+    color: #eee;
+    text-shadow: 0 0px 0 #eee;
+}
+
+
+.navbar .nav > li > a:focus,
+.navbar .nav > li > a:hover {
+    background-color: transparent;
+    color: #eee;
+    text-decoration: none;
+}
+
+
+.navbar .brand {
+    float: left;
+    display: block;
+    font-size: 20px;
+    font-weight: 200;
+    color: #eee;
+    text-shadow: 0 0px 0 #eee;
+}
+
+.table.table-striped tbody > tr:nth-child(odd) > td,
+.table.table-striped tbody > tr:nth-child(odd) > th {
+    background-color: #404040;
+}
+
+.robot-menu a.dropdown-toggle {
+    background-color: #214a27;
+}
+
+.navbar .navbar-inner .brand .lv_logo_navbar {
+    height: 0;
+}
+
+body .btn.btn-info {
+    background: #3f5740;
+}
+
+body .btn.btn-success {
+    background: #3f5740;
+}
+
+
+tr {
+    background: #262626;
+}
+
+ul.category-list li > span,
+ul.category-list li > span > a {
+    color: #dfdfdf;
+}
+
+.h3-size {
+    font-weight: 300;
+    line-height: 28px;
+    color: #acacac;
+}
+
+.h2-size {
+    color: #acacac;
+}
+
+.kBase-sidebar__questions-list > li > a {
+    color: #dbdbdb;
+}
+
+p {
+    color: #ccc;
+}
+
+h2 {
+    color: #a2a2a2;
+}
+
+.kBase-sidebar {
+    background: #ffffff00;
+}
