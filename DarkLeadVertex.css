@@ -242,3 +242,14 @@ element.style {
     margin-top: 20px;
     background: #fffcfc00;
 }
+
+.pagination ul>li>a, .pagination ul>li>span {
+    background-color: #3f5740;
+    border-left-width: 0;
+}
+
+.pagination ul>.active>a, .pagination ul>.active>span {
+    color: #ffffff;
+    cursor: default;
+    background: #3f5740;
+}
